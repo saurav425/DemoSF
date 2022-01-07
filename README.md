@@ -1,0 +1,2 @@
+# DemoSF
+Snowflake demo project
